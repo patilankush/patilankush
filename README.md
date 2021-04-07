@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ankush patil..
 - 👀 I’m interested in vlsi frontend domain
 - 🌱 I’m currently learning vlsi frontend course at vlsi guru institute bengaluru,karnataka
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me . phone: 8788197880 
                         Email: patilankush0000@gmail.com
 
